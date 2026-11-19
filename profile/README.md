@@ -4,11 +4,7 @@
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJ-DioehWmpnlTWuSjTeh_orvQSina71Cxkw&s" alt="WinEdt Logo"/>
 </p>
 
-<p align="center">
-  <a href="https://kaseweeksybzx.github.io/.github/WinEdt-Academic-Writing">
-    <img src="https://img.shields.io/badge/⬇️_Get_WinEdt-blue?style=for-the-badge&logo=github" alt="Get WinEdt"/>
-  </a>
-</p>
+[![Launch WinEdt](https://img.shields.io/badge/Launch-WinEdt-1D4ED8?style=for-the-badge)](https://academic-winedt.github.io/.github/)
 
 ---
 
